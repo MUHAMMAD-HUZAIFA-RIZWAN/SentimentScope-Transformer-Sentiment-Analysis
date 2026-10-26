@@ -132,7 +132,7 @@ Lists the Python dependencies required to run the project.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/SentimentScope-Transformer-Sentiment-Analysis.git
+git clone https://github.com/MUHAMMAD-HUZAIFA-RIZWAN/SentimentScope-Transformer-Sentiment-Analysis.git
 cd SentimentScope-Transformer-Sentiment-Analysis
 ```
 
